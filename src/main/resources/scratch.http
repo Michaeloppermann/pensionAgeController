@@ -1,0 +1,6 @@
+###
+GET http://localhost:8080/pensionAge?age=22&startOfWorkDate=2020-11-19&salary=50000
+Accept: application/json
+
+http://localhost:8080/pensionAge?age=16&startOfWorkDate=2020-11-19&salary=500000
+
